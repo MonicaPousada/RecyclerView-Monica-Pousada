@@ -55,6 +55,8 @@ public class MainActivity extends AppCompatActivity {
         // Asignar el adaptador al RecyclerView
         rvContactos.setAdapter(adaptador);
 
+        jdkflñasdlkfj
+
 
 
     }
