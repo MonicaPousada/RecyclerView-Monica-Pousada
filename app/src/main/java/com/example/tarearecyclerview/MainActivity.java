@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Opcionalmente podríamos modificar el tipo de LayoutManager
         rvContactos.setLayoutManager(new LinearLayoutManager(this));
+
         //rvContactos.setLayoutManager(new GridLayoutManager(this, 2));
 
         // Asignar el adaptador al RecyclerView
